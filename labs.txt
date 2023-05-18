@@ -1,0 +1,19 @@
+ENCS2110,DIGITAL ELECTRONICS AND COMPUTER ORGANIZATION LABORATORY,2,8,jamal syyam-1,ibraheem nimr-1,ismail mohammad-2,adnan yahya-2,khader mohammad-1,belal krake-1.
+ENCS311i,ASSEMBLY LANGUAGE LABORATORY,3,1,abu ssaud-1.
+ENCS3130,LINUX LABORATORY,3,5,mohammad jubran-3,khader mohammad-1,aziz qaroush-1.
+ENCS411i,COMPUTER DESIGN LAB,4,2,abdallatif saleh-2.
+ENCS4110,COMPUTER DESIGN LABORATORY,4,5,abu ssaud-3,ayman hruob-2.
+ENCS412i,INTERFACING LABORATORY,4,3,jamal syyam-1,wasel ghanm-2.
+ENCS4130,COMPUTER NETWORK LABORATORY,4,9,ibraheem nimr-3,bashar mohammad-1,ismail mohammad-2,mohammad helal-2,abadalkreem awwad-1.
+ENCS514i,REAL-TIME SYSTEMS LAB,5,4,hanna blata-3,aziz qaroush-1.
+ENCS5150,ADVANCED COMPUTER SYSTEMS ENGINEERING LABORATORY,5,4,yazan abu farha-2,mohammad hussain-2.
+ENEE3112,ELECTRONICS LAB,3,2,nasser ismail-1,mohammad juaba-1.
+ENEE4113,COMMUNICATIONS LAB,4,6,alhareth mohammad-1,ahraf alrimawi-2,kaddrea ahmad-2,wael hashlamoun-1.
+ENEE2101,BASIC ELECTRICAL ENGINEERING LAB,2,1,jaser saad-1.
+ENEE2102,CIRCUITS LAB,2,1,jaser saad-1.
+ENEE2103,CIRCUITS AND ELECTRONICS LABORATORY,2,3,nasser ismail-1,mohammad juaba-2.
+ENEE3101,ELECTRICAL MACHINES LAB,3,2,ali hussan-2.
+ENEE4102,FUNDAMENTALS OF ELECTRICAL MACHINES LAB,4,2,ali hussan-1,mohammad shareaf-1.
+ENEE4104,ENGINEERING SIMULATION LAB,4,1,jamal syyam-1.
+ENEE4105,CONTROL AND POWER ELECTRONICS LAB,4,1,hakem shahade-1.
+ENEE5102,POWER LAB,5,1,hakem shahade-1.
