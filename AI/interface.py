@@ -828,7 +828,7 @@ def lup_loop(cources: list[Course]):
     return lup
 
 
-f = open("Table.txt", "r")
+f = open("AI/Table.txt", "r")
 dec = {}
 x = f.readline()
 
