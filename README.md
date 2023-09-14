@@ -18,6 +18,17 @@ Taher Hasan - 1191740
 
 Dr. Aziz Qaroush
 
+1. Goal
+This programming project can be viewed as an application of searching algorithms (local 
+searching algorithms) in real world problems. 
+2. Specifications: 
+Developing a department courses distribution is not an easy task. It has many variables: 
+time slots, courses, sections, student priorities, teacher priorities etc. The aim of this 
+project is to distribute the department courses with max diversity. 
+The aim of this project is to use Genetic algorithm to optimize the distribution of the
+courses to achieve maximum diversity. The input for this project is the course browser 
+of the current semester. Your program needs to have a reasonable interface that can 
+easily show the distribution of the courses.
 
 **Idea:** 
 
