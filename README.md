@@ -58,7 +58,7 @@ After we have chosen the way we need to search, we can add any courses from the 
 
 The table appears at the end.
 
-![UI3](dm/Aspose.Words.5a48beaf-f0c8-44a8-a99c-0972bb35b50e.004.png)
+![UI3](dm/Aspose.Words.5a48beaf-f0c8-44a8-a99c-0972bb35b50e.004.png.png)
 
 If we get a conflict between two or more sections, it will appear as a red button. If selected, the name of the conflicting sections and other details will appear.
 
