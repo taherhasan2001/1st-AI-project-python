@@ -980,7 +980,7 @@ AddTime(BGF, Finsh)
 
 
 def Save(Fin):
-    f2 = open("Table.txt", "w")
+    f2 = open("AI/Table.txt", "w")
     for x in Fin:
         f2.write(x)
         f2.write("." + "\n")
